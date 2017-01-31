@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>	
+	<setting label="TV listing URL" type="text" id="listUrl" default="http://pastebin.com/raw/tMz6iwjK" />
+</settings>
