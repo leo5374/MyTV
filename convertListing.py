@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# author: sudoel
 # this script parse the TV listing xml for kodi addon to AppleTV addon format
 
 
