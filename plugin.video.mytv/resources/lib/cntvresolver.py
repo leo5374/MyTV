@@ -1,3 +1,5 @@
+# library for handling cntv url
+# author: sudoel
 import xbmc
 import xbmcgui
 import traceback
